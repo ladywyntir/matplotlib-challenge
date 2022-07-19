@@ -1,0 +1,6 @@
+new_num_mice = clean_mice_df["Mouse ID"].nunique()
+new_num_mice
+
+
+clena_mice_df
+for all mice -  timepoints for each drug regimen
